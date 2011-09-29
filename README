@@ -1,0 +1,9 @@
+GeSoLife
+
+is a map auto tagging plugin for Usahidi.
+
+this plugin will get the location from the message then tag the map, 
+where the messages are coming from. this plugin developed using geonames and 
+google api.
+
+
